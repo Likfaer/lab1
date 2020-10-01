@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
-int main() {
+int main() 
+{
 	setlocale(LC_ALL, "Russian");
 	cout << "Задание 2.8" << endl;
 	int  i, j, k, m;  char c, d;   i = 1;  j = 2;  k = -7; m = 0; c = 'w';
@@ -73,3 +74,4 @@ int main() {
 	cout << "u - us * i = (Тип выражения = unsigned int)" << endl;
 	cout << "( sc + d ) * ld = (Тип выражение = long double)" << endl;
 	cout << "( f + 3 ) / ( 2.5f - s * 3.14 ) = (Тип выражения  = Float)" << endl << endl;
+}

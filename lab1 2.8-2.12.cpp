@@ -59,7 +59,7 @@ int main() {
 	cout << "Команда and==&&, а команда not==!" << endl << endl;
 	
 	cout << "Задание 2.10" << endl;
-	cout << "Узнать у челов" << endl << endl;
+	cout << "не знаю" << endl << endl;
 	cout << "Задание 2.11" << endl;
 	cout << "!( a>b ) == (b>=a)" << endl;
 	cout << "!( a<2 || a>5) == (2>=a || 5>=a)" << endl;

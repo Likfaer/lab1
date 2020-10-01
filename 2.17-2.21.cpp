@@ -43,8 +43,4 @@ int main()
 	min = sec / 60;
 	hour = sec / 3600;
 	cout << "hour =" << hour << " min =" << min << endl << endl;
-	cout << "Задание 2.22" << endl;
-	cin >> l;
-	l = (((l *= l * l) *= l) *= l * l);
-	cout << l << endl;
 }

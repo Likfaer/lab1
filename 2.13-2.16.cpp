@@ -153,3 +153,14 @@ x = d * ( y = ( (int)2.9 + 1.1) / d); printf ("x = %d y = %f\n", x, y);
 >> x = 0.781250; y = 2
 >> x = 0 y = 0.000000
 
+#include <stdio.h>
+
+int main()
+{
+    double x, y;
+    printf("x = ");
+    scanf("%lf", &x);
+    y = 2 * x * x * x * x - 3 * x * x * x + 4 * x * x - 5 * x + 6; 
+    printf("y = %lf", y);
+    return 0;
+}

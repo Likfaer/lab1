@@ -152,7 +152,8 @@ x = d * ( y = ( (int)2.9 + 1.1) / d); printf ("x = %d y = %f\n", x, y);
 >> x = 1.600000 ;y = 3
 >> x = 0.781250; y = 2
 >> x = 0 y = 0.000000
-
+    
+2.16    
 #include <stdio.h>
 
 int main()
